@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Pertama Gue</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 640px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #0a0a0a;
+      color: #eaeaea;
+    }
+    h1 { color: #4ade80; }
+    a { color: #60a5fa; }
+  </style>
+</head>
+<body>
+  <h1>Halo dari HP</h1>
+  <p>Web ini dibuat dari HP, gratis, nggak bayar.</p>
+  <p>Edit file <code>index.html</code> di GitHub kapan aja, perubahan langsung live.</p>
+</body>
+</html>
